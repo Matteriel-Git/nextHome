@@ -1,4 +1,4 @@
-### Constructor Nextjs App
+### nextHome Nextjs Real Estate Site
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -11,4 +11,4 @@ Real Estate website. This site provides an easy-to-use interface for viewing pro
 * Nextjs
 * Tailwind Css for responsiveness
 * Using React-hook-form and yup for form validation
-* Deployed on Vercel.
+* Deployed on Vercel here: https://next-home-psi.vercel.app/
