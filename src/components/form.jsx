@@ -71,7 +71,7 @@ const Form = () => {
         </p>
       </div>
 
-      {/* FORM */}
+      {/* Form */}
 
       <div className=" sm:flex justify-center items-center">
         <form onSubmit={handleSubmit(onSubmit)}>
@@ -167,7 +167,6 @@ const Form = () => {
             </div>
 
             {/* 3rd row  */}
-
             <div className="sm:flex justify-between items-center p-0 gap-[10px] w-full h-[60px] relative mt-36 sm:mt-0">
               <div className="flex flex-col">
                 <label className="relative">
