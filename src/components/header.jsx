@@ -62,7 +62,7 @@ const Header = () => {
         />
       </div>
 
-      {/* navbar Links */}
+      {/* Navbar Links */}
 
       <ul
         style={{ color: `${headerText}` }}
