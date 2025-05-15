@@ -10,6 +10,8 @@ import cardImageBg7 from '../assets/images/Image-7.png';
 import cardImageBg8 from '../assets/images/Image-8.png';
 import cardImageBg9 from '../assets/images/Image-9.png';
 
+
+/* House Cards*/
 const HomeCardComponent = () => {
   return (
     <div className="flex flex-col sm:grid md:grid-cols-2 xl:grid-cols-3 gap-5 m-5 p-5 ">

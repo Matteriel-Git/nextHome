@@ -36,7 +36,7 @@ const Services = () => {
         </p>
       </div>
 
-      {/* 5 icons and names of services */}
+      {/* 5 icons and name of services */}
       <div className="grid grid-cols-2 sm:flex justify-center items-center mt-16 ml-[40px]">
         <div className="flex flex-col justify-center items-center mr-[30px] sm:mr-[60px] sm:ml-[50px] hover:scale-125 ease-in duration-200">
           <div className="bg-white h-[120px] w-[120px] mr-[30px] flex flex-col justify-center items-center rounded-[120px] shadow-xl p-[10px] gap-[10px] mb-5 dark:bg-gray-700">
